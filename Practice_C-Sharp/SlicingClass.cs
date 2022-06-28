@@ -11,16 +11,16 @@ namespace Practice_C_Sharp
      {
         public void funA() 
         { 
-            Console.WriteLine("Function 1"); 
+            Console.WriteLine("Function A"); 
         }
     }
  
     // Derived class
     class B : SlicingClass
     {
-        public void funA()
+        public void funB()
         {
-            Console.WriteLine("Function 2");
+            Console.WriteLine("Function B");
         }
     }
 }
