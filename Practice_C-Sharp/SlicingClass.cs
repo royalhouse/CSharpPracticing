@@ -11,7 +11,7 @@ namespace Practice_C_Sharp
      {
         public void funA() 
         { 
-            Console.WriteLine("Function A"); 
+            Console.WriteLine("Function 01"); 
         }
     }
  
@@ -20,7 +20,7 @@ namespace Practice_C_Sharp
     {
         public void funB()
         {
-            Console.WriteLine("Function B");
+            Console.WriteLine("Function 02");
         }
     }
 }
