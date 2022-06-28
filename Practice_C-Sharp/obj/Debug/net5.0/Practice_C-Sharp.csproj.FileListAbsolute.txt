@@ -1,0 +1,16 @@
+C:\Users\abunaser\Pictures\Practice_C_Sharp\Practice_C-Sharp\Practice_C-Sharp\bin\Debug\net5.0\Practice_C-Sharp.exe
+C:\Users\abunaser\Pictures\Practice_C_Sharp\Practice_C-Sharp\Practice_C-Sharp\bin\Debug\net5.0\Practice_C-Sharp.deps.json
+C:\Users\abunaser\Pictures\Practice_C_Sharp\Practice_C-Sharp\Practice_C-Sharp\bin\Debug\net5.0\Practice_C-Sharp.runtimeconfig.json
+C:\Users\abunaser\Pictures\Practice_C_Sharp\Practice_C-Sharp\Practice_C-Sharp\bin\Debug\net5.0\Practice_C-Sharp.runtimeconfig.dev.json
+C:\Users\abunaser\Pictures\Practice_C_Sharp\Practice_C-Sharp\Practice_C-Sharp\bin\Debug\net5.0\Practice_C-Sharp.dll
+C:\Users\abunaser\Pictures\Practice_C_Sharp\Practice_C-Sharp\Practice_C-Sharp\bin\Debug\net5.0\ref\Practice_C-Sharp.dll
+C:\Users\abunaser\Pictures\Practice_C_Sharp\Practice_C-Sharp\Practice_C-Sharp\bin\Debug\net5.0\Practice_C-Sharp.pdb
+C:\Users\abunaser\Pictures\Practice_C_Sharp\Practice_C-Sharp\Practice_C-Sharp\obj\Debug\net5.0\Practice_C-Sharp.csproj.AssemblyReference.cache
+C:\Users\abunaser\Pictures\Practice_C_Sharp\Practice_C-Sharp\Practice_C-Sharp\obj\Debug\net5.0\Practice_C-Sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abunaser\Pictures\Practice_C_Sharp\Practice_C-Sharp\Practice_C-Sharp\obj\Debug\net5.0\Practice_C-Sharp.AssemblyInfoInputs.cache
+C:\Users\abunaser\Pictures\Practice_C_Sharp\Practice_C-Sharp\Practice_C-Sharp\obj\Debug\net5.0\Practice_C-Sharp.AssemblyInfo.cs
+C:\Users\abunaser\Pictures\Practice_C_Sharp\Practice_C-Sharp\Practice_C-Sharp\obj\Debug\net5.0\Practice_C-Sharp.csproj.CoreCompileInputs.cache
+C:\Users\abunaser\Pictures\Practice_C_Sharp\Practice_C-Sharp\Practice_C-Sharp\obj\Debug\net5.0\Practice_C-Sharp.dll
+C:\Users\abunaser\Pictures\Practice_C_Sharp\Practice_C-Sharp\Practice_C-Sharp\obj\Debug\net5.0\ref\Practice_C-Sharp.dll
+C:\Users\abunaser\Pictures\Practice_C_Sharp\Practice_C-Sharp\Practice_C-Sharp\obj\Debug\net5.0\Practice_C-Sharp.pdb
+C:\Users\abunaser\Pictures\Practice_C_Sharp\Practice_C-Sharp\Practice_C-Sharp\obj\Debug\net5.0\Practice_C-Sharp.genruntimeconfig.cache
