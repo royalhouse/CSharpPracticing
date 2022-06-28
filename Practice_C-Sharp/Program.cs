@@ -31,17 +31,27 @@ namespace Practice_C_Sharp
 
 
 
-            B fullObject = new B();
-            test(fullObject);
+            B fullObjectB = new B();
+            testA(fullObjectB);
+
+            C fullObjectC = new C();
+            testC(fullObjectC);
 
         }
-        public static void test(SlicingClass notSlicedObject)
+        public static void testA(SlicingClass notSlicedObject)
         {
             notSlicedObject.funA();
 
             ((B)notSlicedObject).funB();
 
 
+        }
+
+        public static void testC(C toSlicedObject)
+        {
+            toSlicedObject.funA();
+            toSlicedObject.funB();
+            toSlicedObject.funC();
         }
 
 

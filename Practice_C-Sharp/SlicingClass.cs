@@ -11,7 +11,7 @@ namespace Practice_C_Sharp
      {
         public void funA() 
         { 
-            Console.WriteLine("Function 01 is in main class."); 
+            Console.WriteLine("Function 01 is in main Slicing class."); 
         }
     }
  
@@ -20,7 +20,14 @@ namespace Practice_C_Sharp
     {
         public void funB()
         {
-            Console.WriteLine("Function 02 is in slicing class.");
+            Console.WriteLine("Function 02 is in B class.");
+        }
+    }
+    class C: B
+    {
+        public void funC()
+        {
+            Console.WriteLine("Function 03 is in C class.");
         }
     }
 }
