@@ -9,7 +9,7 @@ namespace Practice_C_Sharp
     // Parent class
     class SlicingClass
      {
-        public void fun1() 
+        public void funA() 
         { 
             Console.WriteLine("Function 1"); 
         }
@@ -18,7 +18,7 @@ namespace Practice_C_Sharp
     // Derived class
     class B : SlicingClass
     {
-        public void fun2()
+        public void funA()
         {
             Console.WriteLine("Function 2");
         }
